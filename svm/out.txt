@@ -1,0 +1,6 @@
+root@RAINDROP:~/ud120/ud120-projects/svm# python svm_author_id.py
+no. of Chris training emails: 7936
+no. of Sara training emails: 7884
+training time: 252.983 s
+prediction time: 28.682 s
+0.984072810011
